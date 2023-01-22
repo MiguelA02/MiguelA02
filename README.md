@@ -6,8 +6,7 @@
            Un apasionado desarrollador web fullstack de Costa Rica🌅. Un gusto en saludarte y espero con esto me conozcas un poco mas.
         </h3>
 </div>
-<!--
-**MiguelA02/MiguelA02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
 ### Sobre mi:
 
