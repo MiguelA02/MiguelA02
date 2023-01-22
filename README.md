@@ -14,5 +14,5 @@
 🧒🏾 Desde pequeño siempre supe que me queria dedicar al mundo IT, me emocionaban los desafíos que me motivaran a buscar soluciones de forma creativa, y conforme iba creciendo la ganas de iniciar en este mundo se hacian mas fuertes y bueno aqui estamos, cumpliedo un sueño ... 🙌🏾
 
 ## ¿Que hago?
-🧑🏾‍💻 Actualmente me dedico a desarrollar proyectos que me ayuden
+🧑🏾‍💻 Actualmente me dedico a desarrollar proyectos por mi cuenta y a aprender nuevas tecnologias que me ayuden a seguir mejorando, ya que en este mundo IT que va tan rapido, no podemos quedarnos atras.
 
