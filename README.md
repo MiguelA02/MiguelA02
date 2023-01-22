@@ -9,11 +9,10 @@
 
 ---
 
-# Un poco sobre mi 🧑🏾‍💻:
+# Un poco sobre mi:
 ## ¿Quien soy?
+🧒🏾 Desde pequeño siempre supe que me queria dedicar al mundo IT, me emocionaban los desafíos que me motivaran a buscar soluciones de forma creativa, y conforme iba creciendo la ganas de iniciar en este mundo se hacian mas fuertes y bueno aqui estamos, cumpliedo un sueño ... 🙌🏾
 
-- 🧠 Poseo conocimientos tanto practicos como tecnicos
-- 📈 Soy una persona colaborativa, disfruto de ayudar a los demas a poder alcazar sus metas y poder asi mejorar profesionalemente.
-
-
+## ¿Que hago?
+🧑🏾‍💻 Actualmente me dedico a desarrollar proyectos que me ayuden
 
