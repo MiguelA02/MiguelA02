@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+    <h1>Hola 👋, soy Miguel</h1>
+    <h3>
+        Un apasionado desarrollador web fullstack de Costa Rica🌅. Un gusto en saludarte y espero que los disfrutes
+    </h3>
+</div>
 <!--
 **MiguelA02/MiguelA02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
