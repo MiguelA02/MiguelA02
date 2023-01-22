@@ -18,3 +18,6 @@
 
 ## ¿A dónde me dirijo?
 📈 Mi meta es ayudar a las personas a resolver problemas cotidianos con codigo, ya que lo mas preciado que tiene una persona ademas de la familia, es el tiempo. Por eso mi interes de poder hacer las situaciones cotidianas y asi permitirle a las personas a difrutar mas las cosas que aman. (P.D.: Yo ya estoy disfrutando de lo que amo)🌟
+
+## ¿Qué tecnologías uso?
+💻 Como dicen por ahi, "Si amas lo que haces, ni los lunes te quitaran la sonrisa" es por eso que desde que comenze la carrera de ingeniería informatica no he parado de aprender y mejorar mis conocmientos y habilidades, tanto asi que mientras estudiaba la carrera lleve un bootcamp de desarrollo web que me permitio encontrar la que considero mi pasion, es por eso que he podido desarrollar conocimientos solidos en las siguientes tecnologias:
