@@ -46,3 +46,6 @@
 <div id="header" align="center">
     <img src="./img/brands/Backend/logotype.png" title="javascript iconos" alt="" width="50"> 
 </div>
+
+## Si te gusto lo que leíste, no dudes en contactarme.
+📞 Te dejo por aqui las diferentes formas en las que me puedes contactar.
