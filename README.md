@@ -37,8 +37,13 @@
     <img src="./img/brands/Backend/logo2.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/Backend/logo3.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/Backend/logo4.png" title="javascript iconos" alt="" width="50">
-    <img src="./img/brands/Backend/logo5.png" title="javascript iconos" alt="" width="50">
+    <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/Backend/logo6.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/Backend/logo7.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/Backend/logo8.png" title="javascript iconos" alt="" width="50">   
+</div>
+
+### En progreso:
+<div id="header" align="center">
+    <img src="./img/brands/Backend/logo2.png" title="javascript iconos" alt="" width="50"> 
 </div>
