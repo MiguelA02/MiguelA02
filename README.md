@@ -1,7 +1,7 @@
 
  <div id="header" align="center">
+        <img src="./img/studying.png" alt="" width="300">
         <h1>Hola 👋, soy Miguel</h1>
-        <img src="./img/studying.png" alt="" width="200">
         <h3>
            Un apasionado desarrollador web fullstack de Costa Rica🌅. Un gusto en saludarte y espero que lo disfrutes
         </h3>
