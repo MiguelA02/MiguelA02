@@ -24,7 +24,6 @@
 ### Frontend:
 <div id="header" align="center">
     <img src="./img/brands/Backend/logo1.png" title="javascript iconos" alt="" width="50">
-    <img src="./img/brands/frontend/logo3.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/frontend/logo1.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/frontend/logo2.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/frontend/logo3.png" title="javascript iconos" alt="" width="50">
