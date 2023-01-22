@@ -21,7 +21,7 @@
 
 ## ¿Qué tecnologías uso?
 💻 Como dicen por ahi, "Si amas lo que haces, ni los lunes te quitaran la sonrisa" es por eso que desde que comenze la carrera de ingeniería informatica no he parado de aprender y mejorar mis conocmientos y habilidades, tanto asi que mientras estudiaba la carrera lleve un bootcamp de desarrollo web que me permitio encontrar la que considero mi pasion, es por eso que he podido desarrollar conocimientos solidos en las siguientes tecnologias:
-### Frontend
+### Frontend:
 <div id="header" align="center">
     <img src="./img/brands/Backend/logo1.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/frontend/logo3.png" title="javascript iconos" alt="" width="50">
@@ -30,4 +30,14 @@
     <img src="./img/brands/frontend/logo3.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/frontend/logo4.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/frontend/logo5.png" title="javascript iconos" alt="" width="50">   
+</div>
+### Backend:
+<div id="header" align="center">
+    <img src="./img/brands/Backend/logo2.png" title="javascript iconos" alt="" width="50">
+    <img src="./img/brands/Backend/logo3.png" title="javascript iconos" alt="" width="50">
+    <img src="./img/brands/Backend/logo4.png" title="javascript iconos" alt="" width="50">
+    <img src="./img/brands/Backend/logo5.png" title="javascript iconos" alt="" width="50">
+    <img src="./img/brands/Backend/logo6.png" title="javascript iconos" alt="" width="50">
+    <img src="./img/brands/Backend/logo7.png" title="javascript iconos" alt="" width="50">
+    <img src="./img/brands/Backend/logo8.png" title="javascript iconos" alt="" width="50">   
 </div>
