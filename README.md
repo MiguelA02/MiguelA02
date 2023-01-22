@@ -16,3 +16,5 @@
 ## ¿Que hago?
 🧑🏾‍💻 Actualmente me dedico a desarrollar proyectos por mi cuenta y a aprender nuevas tecnologias que me ayuden a seguir mejorando, ya que en este mundo IT que va tan rapido, no podemos quedarnos atras.
 
+## ¿A dónde me dirijo?
+📈 
