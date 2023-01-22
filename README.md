@@ -49,8 +49,8 @@
 
 ## Si te gusto lo que leíste, no dudes en contactarme.
 📞 Te dejo por aqui las diferentes formas en las que me puedes contactar.
+📫 miguelangelpazv2110@gmail.com
  <div id="header" align="center">
         <a href="https://www.linkedin.com/in/miguel-angel-paz-53a5a1236/"><img src="./img/brands/contact/linkedin-original.256x256.png" alt="" width="35"></a>
-        <a href="mailto:miguelangelpazv2110@gmail.com"><img src="./img/brands/contact/google-gmail.256x195.png" alt="" width="40"></a>
         <a href="https://miguedev.netlify.app/"><img src="./img/brands/contact/miguelDev.png" alt="" width="35"></a>
 </div>
