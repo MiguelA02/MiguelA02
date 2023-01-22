@@ -45,5 +45,5 @@
 
 ### En progreso:
 <div id="header" align="center">
-    <img src="./img/brands/Backend/logo2.png" title="javascript iconos" alt="" width="50"> 
+    <img src="./img/brands/Backend/logotype.png" title="javascript iconos" alt="" width="50"> 
 </div>
