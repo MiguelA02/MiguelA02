@@ -10,6 +10,7 @@
 ---
 
 ### Un poco sobre mi 🧑🏾‍💻:
+## ¿Quien soy?
 
 - 🧠 Poseo conocimientos tanto practicos como tecnicos
 - 📈 Soy una persona colaborativa, disfruto de ayudar a los demas a poder alcazar sus metas y poder asi mejorar profesionalemente.
