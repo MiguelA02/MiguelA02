@@ -23,7 +23,7 @@
 💻 Como dicen por ahi, "Si amas lo que haces, ni los lunes te quitaran la sonrisa" es por eso que desde que comenze la carrera de ingeniería informatica no he parado de aprender y mejorar mis conocmientos y habilidades, tanto asi que mientras estudiaba la carrera lleve un bootcamp de desarrollo web que me permitio encontrar la que considero mi pasion, es por eso que he podido desarrollar conocimientos solidos en las siguientes tecnologias:
 <div id="header" align="center">
         <div align="left">
-            <img src="./img/javascript-js.256x256.png" title="javascript iconos" alt="" width="200">
+            <img src="./img/javascript-js.256x256.png" title="javascript iconos" alt="" width="50">
         </div>
         
 </div>
