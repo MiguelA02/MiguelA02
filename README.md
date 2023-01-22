@@ -9,7 +9,7 @@
 
 ---
 
-### Un poco sobre mi 🧑🏾‍💻:
+# Un poco sobre mi 🧑🏾‍💻:
 ## ¿Quien soy?
 
 - 🧠 Poseo conocimientos tanto practicos como tecnicos
