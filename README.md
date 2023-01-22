@@ -3,7 +3,7 @@
         <img src="./img/studying.png" alt="" width="300">
         <h1>Hola 👋, soy Miguel</h1>
         <h3>
-           Un apasionado desarrollador web fullstack de Costa Rica🌅. Un gusto en saludarte y espero que lo disfrutes
+           Un apasionado desarrollador web fullstack de Costa Rica🌅. Un gusto en saludarte y espero con esto me conozcas un poco mas.
         </h3>
 </div>
 <!--
